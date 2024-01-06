@@ -1,5 +1,5 @@
 # HR-Analytics-Power-BI
-This is en end-to-end HR analytic project. Here are the specific steps that are taken in the project:
+This is an end-to-end HR analytic project. Here are the specific steps that are taken in the project:
   1.Problem definition: To identify trends in employee attrition.
   2.Data gathering: The next step is to gather the data that you need to solve the problem. In this case, the data is provided by Codebasics.
   3.Data cleaning and preparation: Once the data is gathered, it needs to be cleaned and prepared. This involves removing any errors or inconsistencies in the data, and transforming it into a format that is easy to analyze.
